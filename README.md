@@ -1,37 +1,41 @@
-<h1 align="center">Hi 👋, I'm Arnav Modgil</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Competitive Programmer | Full Stack Developer</h3>
+<h1 align="center">Hey 👋, I'm Arnav Modgil</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | Competitive Programmer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Passionate+Programmer+💻;Full+Stack+Web+Developer+🌐;Learning+DevOps+⚙️;DSA+in+C%2B%2B+📚;Future+Software+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications+🌐;Competitive+Programmer+💻;DSA+in+C%2B%2B+📚;Learning+DevOps+⚙️;Future+Top+Software+Engineer+🚀" />
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me:
-- 🎓 Pursuing **BTech in Computer Science**
-- 🌱 Learning **Spring Boot, DevOps & Competitive Programming**
-- 💻 Exploring **MERN Stack & Full Stack Development**
-- 📚 Practicing **Data Structures & Algorithms in C++**
-- 🤝 Open to collaborate on **Web Development Projects**
-- ⚡ Fun Fact: **Consistency beats talent every time 💯**
+## 🚀 About Me:
+- 🎓 Computer Science undergraduate passionate about technology and innovation  
+- 💻 Full Stack Developer focused on building scalable and user-friendly applications  
+- 📚 Strong interest in Data Structures & Algorithms using C++  
+- ⚙️ Exploring Backend Development, DevOps & System Design  
+- 🌱 Currently learning Spring Boot and advanced web technologies  
+- 🚀 Passionate about solving real-world problems through code  
+- 🤝 Open to collaborating on impactful projects and innovative ideas  
+- ⚡ Believer in consistency, discipline, and continuous growth  
 
 ---
 
 ## 🛠️ Tech Stack:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,python,mysql,mongodb,react,nodejs,express,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,tailwind,python,mysql,mongodb,react,nodejs,express,spring,git,github,linux,vscode" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects:
 <p align="center">
-<a href="https://github.com/ArnavModgiL">
+<a href="https://github.com/ArnavModgiL/Student-Management-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavModgiL&repo=Student-Management-System&theme=tokyonight" />
 </a>
-<a href="https://github.com/ArnavModgiL">
+<a href="https://github.com/ArnavModgiL/Portfolio-Website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavModgiL&repo=Portfolio-Website&theme=tokyonight" />
 </a>
 </p>
@@ -40,33 +44,30 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArnavModgiL&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavModgiL&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArnavModgiL&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavModgiL&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavModgiL&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavModgiL&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements:
+## 🏆 Achievements:
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ArnavModgiL&theme=onedark&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=ArnavModgiL&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" />
+</p>
+## 🏆 Achievements:
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ArnavModgiL&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph:
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavModgiL&theme=tokyo-night" />
-</p>
-
----
-
-## 🐍 Contribution Snake:
-<p align="center">
-<img src="https://raw.githubusercontent.com/ArnavModgiL/ArnavModgiL/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavModgiL&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -86,11 +87,11 @@
 
 ---
 
-## ✨ Dev Quote:
+## 💡 Quote I Believe In:
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <i>"Consistency beats talent when talent doesn’t work hard."</i>
 </p>
 
 ---
 
-<h3 align="center">✨ Code. Learn. Build. Repeat. ✨</h3>
+<h3 align="center">⚡ Turning Ideas into Reality with Code ⚡</h3>
