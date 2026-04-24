@@ -42,10 +42,10 @@
 
 ---
 ## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/ArnavModgiL/ArnavModgiL/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</h4>  
+  
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+<br/>
 
 ---
 
