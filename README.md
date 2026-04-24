@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,tailwind,python,mysql,mongodb,react,nodejs,express,spring,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,tailwind,python,git,github,linux,vscode" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ## 🚀 Featured Projects:
 <p align="center">
 <a href="https://github.com/ArnavModgiL/Student-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavModgiL&repo=Student-Management-System&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavModgiL&repo=student-management-system-c&theme=tokyonight" />
 </a>
 <a href="https://github.com/ArnavModgiL/Portfolio-Website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavModgiL&repo=Portfolio-Website&theme=tokyonight" />
@@ -50,17 +50,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavModgiL&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements:
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ArnavModgiL&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
-## 🏆 Achievements:
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ArnavModgiL&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
