@@ -37,10 +37,18 @@
 
 ---
 
+![snake gif](https://github.com/ArnavModgiL/ArnavModgiL/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🏆 GitHub Trophies:
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ArnavModgiL&theme=onedark&row=1&column=6" />
 </p>
+
+---
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
