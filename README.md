@@ -37,7 +37,7 @@
 
 ---
 
-![snake gif](https://github.com/ArnavModgiL/ArnavModgiL/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ArnavModgil/ArnavModgil/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
