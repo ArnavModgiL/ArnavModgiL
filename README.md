@@ -30,18 +30,6 @@
 
 ---
 
-## 🚀 Featured Projects:
-<p align="center">
-<a href="https://github.com/ArnavModgiL/Student-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavModgiL&repo=student-management-system-c&theme=tokyonight" />
-</a>
-<a href="https://github.com/ArnavModgiL/Portfolio-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavModgiL&repo=Portfolio-Website&theme=tokyonight" />
-</a>
-</p>
-
----
-
 ## 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ArnavModgiL&show_icons=true&theme=tokyonight&hide_border=true" />
