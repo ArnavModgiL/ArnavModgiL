@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me:
+## 🚀 About Me: -
 - 🎓 Computer Science undergraduate passionate about technology and innovation  
 - 💻 Full Stack Developer focused on building scalable and user-friendly applications  
 - 📚 Strong interest in Data Structures & Algorithms using C++  
@@ -23,14 +23,14 @@
 
 ---
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack: -
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,tailwind,python,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats: -
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ArnavModgiL&show_icons=true&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavModgiL&theme=tokyonight&hide_border=true" />
@@ -42,14 +42,14 @@
 
 ---
 
-## 📈 Contribution Graph:
+## 📈 Contribution Graph: -
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavModgiL&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me:
+## 🌐 Connect With Me: -
 <p align="center">
 <a href="https://linkedin.com/in/arnav-modgil08" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
