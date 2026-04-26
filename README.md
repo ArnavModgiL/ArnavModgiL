@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Arnav Modgil</h1>
+<h1 align="center">Hey 👋, I'm Arnav Modgil.</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | Competitive Programmer 🚀</h3>
 
 <p align="center">
