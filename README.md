@@ -37,7 +37,7 @@
 
 ---
 
-## 🌐 Connect With Me: -
+## 🌐 Connect With Me: - 
 <p align="center">
 <a href="https://linkedin.com/in/arnav-modgil08" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
