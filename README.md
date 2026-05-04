@@ -43,7 +43,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
 <a href="mailto:arnavmodgil08@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50" />
+<img src="https://skillicons.dev/icons?i=gmail" width="50" /> 
 </a>
 <a href="https://github.com/ArnavModgiL">
 <img src="https://skillicons.dev/icons?i=github" width="50" />
