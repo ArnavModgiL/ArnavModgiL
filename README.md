@@ -52,7 +52,7 @@
 
 ---
 
-## 💡 Quote I Believe In:
+## 💡 Quote I Believe In: 
 <p align="center">
   <i>"Consistency beats talent when talent doesn’t work hard."</i>
 </p>
