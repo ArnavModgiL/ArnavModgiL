@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Arnav Modgil.</h1>  
 <h3 align="center">Software Engineer | Full Stack Developer | Competitive Programmer 🚀</h3>  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
-</p>
-
 ---
 
 ## 🚀 About Me: -
@@ -22,28 +18,6 @@
 ## 🛠️ Tech Stack: - 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,tailwind,python,git,github,linux,vscode" />
-</p>
-
----
-
-## 📈 Contribution Graph: -
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavModgiL&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me: -  
-<p align="center">
-<a href="https://linkedin.com/in/arnav-modgil08" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-</a>
-<a href="mailto:arnavmodgil08@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50" /> 
-</a>
-<a href="https://github.com/ArnavModgiL">
-<img src="https://skillicons.dev/icons?i=github" width="50" />
-</a>
 </p>
 
 ---
