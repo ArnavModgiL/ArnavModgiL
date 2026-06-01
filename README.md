@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Arnav Modgil.</h1>  
 <h3 align="center">Software Engineer | Full Stack Developer | Competitive Programmer 🚀</h3>  
 
-<p align="center">  
-font=Poppins&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications+🌐;Competitive+Programmer+💻;DSA+in+C%2B%2B+📚;Learning+DevOps+⚙️;Future+Top+Software+Engineer+🚀" /> 
-</p> 
-
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
 </p>
