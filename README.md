@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me: -
+## 🚀 About Me: -  
 - 🎓 Computer Science undergraduate passionate about technology and innovation   
 - 💻 Full Stack Developer focused on building scalable and user-friendly applications  
 - 📚 Strong interest in Data Structures & Algorithms using C++  
