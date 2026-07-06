@@ -11,7 +11,7 @@
 - 🌱 Currently learning Spring Boot and advanced web technologies  
 - 🚀 Passionate about solving real-world problems through code   
 - 🤝 Open to collaborating on impactful projects and innovative ideas  
-- ⚡ Believer in consistency, discipline, and continuous growth  
+- ⚡ Believer in consistency, discipline, and continuous growth
 
 ---
 
