@@ -22,6 +22,12 @@
 
 ---
 
+## 📈 Contribution Graph
+
+[![Arnav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArnavModgiLE&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_ArnavModgiL)
+
+---
+
 ## 💡 Quote I Believe In: 
 <p align="center">
   <i>"Consistency beats talent when talent doesn’t work hard."</i>
