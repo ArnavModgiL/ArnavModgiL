@@ -21,8 +21,14 @@
 </p>
 
 ---
+<h2 align="center">🚀 Animated Typing Header :-</h2>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Arnav;Java+Full+Stack+Developer;DSA+in+Java;Spring+Boot+Developer;Always+Learning+New+Things+%F0%9F%9A%80"/>
+</p>
+---
+
+<h2 align="center">📊 GitHub Analytics :-</h2>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnavModgiL&theme=tokyonight"/>
@@ -37,6 +43,13 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnavModgiL&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArnavModgiL&theme=tokyonight"/>
 </p>
+
+---
+<h2 align="center">☕Buy Me Coffee :-</h2>
+
+<a href="https://buymeacoffee.com/ArnavModgiL">
+<img src="https://img.shields.io/badge/Buy%20Me%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee"/>
+</a>
 
 ---
 
