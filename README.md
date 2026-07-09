@@ -21,10 +21,19 @@
 </p>
 
 ---
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnavModgiL&theme=tokyonight"/>
+</p>
 
-## 📈 Contribution Graph
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnavModgiL&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArnavModgiL&theme=tokyonight"/>
+</p>
 
-[![Arnav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArnavModgiLE&theme=tokyo-night&hide_border=true)](https://github.com/ArnavModgiL)
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnavModgiL&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArnavModgiL&theme=tokyonight"/>
+</p>
 
 ---
 
