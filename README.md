@@ -13,7 +13,7 @@
 - 🤝 Open to collaborating on impactful projects and innovative ideas  
 - ⚡ Believer in consistency, discipline, and continuous growth
 
----
+--- 
 
 ## 🛠️ Tech Stack: - 
 <p align="center">
