@@ -8,7 +8,7 @@
 - 💻 Full Stack Developer focused on building scalable and user-friendly applications  
 - 📚 Strong interest in Data Structures & Algorithms using C++  
 - ⚙️ Exploring Backend Development, DevOps & System Design  
-- 🌱 Currently learning Spring Boot and advanced web technologies  
+- 🌱 Currently learning Spring Boot and advanced web technologies   
 - 🚀 Passionate about solving real-world problems through code   n 
 - 🤝 Open to collaborating on impactful projects and innovative ideas  
 - ⚡ Believer in consistency, discipline, and continuous growth
