@@ -8,34 +8,6 @@
 
 ---
 
-# 💫 About Me
-
-```java
-class ArnavModgi {
-
-    String education = "Computer Science Student";
-
-    String[] languages = {
-        "Java",
-        "C",
-        "C++",
-        "Python"
-    };
-
-    String[] interests = {
-        "Backend Development",
-        "Problem Solving",
-        "Open Source"
-    };
-
-    String currentFocus = "DSA + Java";
-
-    String goal = "Software Engineer";
-
-}
-
----
-
 ## 🚀 About Me: -  
 - 🎓 Computer Science undergraduate passionate about technology and innovation   
 - 💻 Full Stack Developer focused on building scalable and user-friendly applications  
@@ -121,7 +93,7 @@ class ArnavModgi {
 
 ### ⭐ Thanks for visiting my profile ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:000428,50:004e92,100:6A5ACD"/>
 
 </div>
 
