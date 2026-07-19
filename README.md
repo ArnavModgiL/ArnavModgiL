@@ -1,4 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:6A5ACD"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,15:1B2735,35:203A43,55:2C5364,75:3B82F6,90:7C3AED,100:00F5FF&text=Arnav%20Modgi&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Java%20Developer%20|%20Backend%20Learner%20|%20DSA%20Enthusiast&descSize=20&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future+One+Commit+at+a+Time;💡+Turning+Coffee+Into+Code;📚+Learning,+Building,+Growing;⚡+Open+Source+Explorer"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
+
+</div>
+
 
 <div align="center">
 
@@ -91,9 +105,10 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### 💙 Thanks for Visiting My Profile! 🚀
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:1A1B27,40:3B82F6,70:7C3AED,100:06B6D4"/>
+*"Code. Learn. Build. Repeat."*
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0F2027,20:203A43,40:2C5364,60:3B82F6,80:7C3AED,100:00F5FF"/> 
