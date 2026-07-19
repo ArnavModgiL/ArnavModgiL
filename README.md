@@ -61,6 +61,29 @@
 
 ---
 
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/arnav-modgil08">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="mailto:arnavmodgil08@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+<a href="https://github.com/ArnavModgiL">
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+</p>
+
+---
+
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile ⭐
