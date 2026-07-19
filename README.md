@@ -1,11 +1,6 @@
-<h1 align="center">Hey 👋, I'm Arnav Modgil.</h1>
-<h3 align="center"> BE-CSE Student | Full Stack Developer | Competitive Programmer 🚀</h3>
- 
---- 
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Arnav+Modgi;Java+Developer;DSA+Enthusiast;Backend+Developer;Open+Source+Learner;Welcome+to+my+GitHub+Profile!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Arnav+Modgi;Java+Developer;DSA+Enthusiast;FullStack+Developer;Open+Source+Learner;Welcome+to+my+GitHub+Profile!" />
 
 </div>
 
