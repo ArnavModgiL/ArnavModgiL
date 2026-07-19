@@ -8,6 +8,34 @@
 
 ---
 
+# 💫 About Me
+
+```java
+class ArnavModgi {
+
+    String education = "Computer Science Student";
+
+    String[] languages = {
+        "Java",
+        "C",
+        "C++",
+        "Python"
+    };
+
+    String[] interests = {
+        "Backend Development",
+        "Problem Solving",
+        "Open Source"
+    };
+
+    String currentFocus = "DSA + Java";
+
+    String goal = "Software Engineer";
+
+}
+
+---
+
 ## 🚀 About Me: -  
 - 🎓 Computer Science undergraduate passionate about technology and innovation   
 - 💻 Full Stack Developer focused on building scalable and user-friendly applications  
