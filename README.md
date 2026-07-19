@@ -3,6 +3,14 @@
  
 --- 
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Arnav+Modgi;Java+Developer;DSA+Enthusiast;Backend+Developer;Open+Source+Learner;Welcome+to+my+GitHub+Profile!" />
+
+</div>
+
+---
+
 ## 🚀 About Me: -  
 - 🎓 Computer Science undergraduate passionate about technology and innovation   
 - 💻 Full Stack Developer focused on building scalable and user-friendly applications  
@@ -53,16 +61,6 @@
 ## 💡 Quote I Believe In: 
 <p align="center">
   <i>"Consistency beats talent when talent doesn’t work hard."</i>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ArnavModgiL/ArnavModgiL/output/snake.svg"/>
-
 </p>
 
 ---
