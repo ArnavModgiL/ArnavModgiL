@@ -62,17 +62,16 @@
 
 ---
 
-<h2 align="center">💭 Developer Wisdom</h2>
+<h2 align="center">⚡ Today's Developer Mindset</h2>
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
-
-<h2 align="center">😂 Random Dev Joke</h2>
-
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+  <i>
+  "Every commit is a step closer to mastery."
+  </i>
 </p>
 
 ---
