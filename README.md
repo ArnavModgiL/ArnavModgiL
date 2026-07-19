@@ -40,6 +40,16 @@
 
 ---
 
+## 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ArnavModgiL&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
 ## 💡 Quote I Believe In: 
 <p align="center">
   <i>"Consistency beats talent when talent doesn’t work hard."</i>
