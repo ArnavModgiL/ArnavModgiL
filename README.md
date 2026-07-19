@@ -93,7 +93,7 @@
 
 ### ⭐ Thanks for visiting my profile ⭐
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:000428,50:004e92,100:6A5ACD"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:1A1B27,40:3B82F6,70:7C3AED,100:06B6D4"/>
 
 </div>
 
