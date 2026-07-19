@@ -57,6 +57,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ArnavModgiL/ArnavModgiL/output/snake.svg"/>
+
+</p>
+
+---
+
 <h3 align="center">⚡ Turning Ideas into Reality with Code ⚡</h3> 
 
 ---
