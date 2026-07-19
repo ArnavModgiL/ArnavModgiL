@@ -62,14 +62,18 @@
 
 ---
 
-## 💡 Quote I Believe In: 
+<h2 align="center">💭 Developer Wisdom</h2>
+
 <p align="center">
-  <i>"Consistency beats talent when talent doesn’t work hard."</i>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
 
-<h3 align="center">⚡ Turning Ideas into Reality with Code ⚡</h3> 
+<h2 align="center">😂 Random Dev Joke</h2>
+
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
 
 ---
 
