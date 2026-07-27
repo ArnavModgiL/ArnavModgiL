@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?  font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future+One+Commit+at+a+Time;💡+Turning+Coffee+Into+Code;📚+Learning,+Building,+Growing;⚡+Open+Source+Explorer"/> 
 
 <br> 
-
+ 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend-6DB33F?style=for-the-badge"/>
