@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 About Me: -  
-- 🎓 Computer Science undergraduate passionate about technology and innovation   
+- 🎓 Computer Science undergraduate passionate about technology and innovation
 - 💻 Full Stack Developer focused on building scalable and user-friendly applications  
 - 📚 Strong interest in Data Structures & Algorithms using C++  
 - ⚙️ Exploring Backend Development, DevOps & System Design  
@@ -41,8 +41,8 @@
 </p> 
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnavModgiL&theme=tokyonight"/> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArnavModgiL&theme=tokyonight"/> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnavModgiL&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArnavModgiL&theme=tokyonight"/>
 </p>
 
 <p align="center"> 
@@ -107,4 +107,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0F2027,20:203A43,40:2C5364,60:3B82F6,80:7C3AED,100:00F5FF"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0F2027,20:203A43,40:2C5364,60:3B82F6,80:7C3AED,100:00F5FF"/>
