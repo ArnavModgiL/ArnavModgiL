@@ -27,14 +27,14 @@
 
 ---  
 
-## 🛠️ Tech Stack: - 
+## 🛠️ Tech Stack: -
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,tailwind,python,git,github,linux,vscode" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics :-</h2>
+<h2 align="center">📊 GitHub Analytics :-</h2> 
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnavModgiL&theme=tokyonight"/>
