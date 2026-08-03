@@ -34,20 +34,15 @@
 
 --- 
 
-<h2 align="center">📊 GitHub Analytics :-</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnavModgiL&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ArnavModgiL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavModgiL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnavModgiL&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArnavModgiL&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnavModgiL&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArnavModgiL&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavModgiL&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
