@@ -32,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,tailwind,python,git,github,linux,vscode" />
 </p>
 
---- 
+---
 
 ## 👀 Visitors
 
